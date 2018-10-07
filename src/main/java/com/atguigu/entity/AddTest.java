@@ -7,6 +7,7 @@ public class AddTest {
 		System.out.println("testGit04 helloworld");
 		System.out.println("testGit03 helloworld");
 		System.out.println("testGit03 group branch");
+		System.out.println("testGit04 department branch");
 	}
 
 }
