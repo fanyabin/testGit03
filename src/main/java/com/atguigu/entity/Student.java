@@ -1,4 +1,4 @@
-package testGit03;
+package com.atguigu.entity;
 
 public class Student {
 		private String name;
